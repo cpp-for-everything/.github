@@ -17,9 +17,7 @@
 
 
 ## My Skill Set  
-<style> .white, table, tr, th, td { background: white !important; } </style>
-
-<table class="white"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 
 
